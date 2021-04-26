@@ -1,6 +1,6 @@
 {
-  "parent": "block/generated",
+  "parent": "block/cube_all",
   "textures": {
-    "layer0": "tutorialmod:blocks/bismuth"
+    "all": "tutorialmod:blocks/bismuth"
   }
 }
